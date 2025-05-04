@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: deac1529cd09f2d4fa4e17ac6141c955
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6803864237801165309
+    second: Iori Yagami SP_00022_0
+  - first:
+      213: -658212599432547087
+    second: Iori Yagami SP_00022_1
+  - first:
+      213: 1397412629217785454
+    second: Iori Yagami SP_00022_2
+  - first:
+      213: -2357311375867347958
+    second: Iori Yagami SP_00022_3
+  - first:
+      213: 3173105358419286710
+    second: Iori Yagami SP_00022_4
+  - first:
+      213: -5170679594527881596
+    second: Iori Yagami SP_00022_5
+  - first:
+      213: 5540460895909561693
+    second: Iori Yagami SP_00022_6
+  - first:
+      213: 120611094058512048
+    second: Iori Yagami SP_00022_7
+  - first:
+      213: -5300505064973728196
+    second: Iori Yagami SP_00022_8
+  - first:
+      213: 8728719231073181250
+    second: Iori Yagami SP_00022_9
+  - first:
+      213: -2460883379077468445
+    second: Iori Yagami SP_00022_10
+  - first:
+      213: 3192175108680840873
+    second: Iori Yagami SP_00022_11
+  - first:
+      213: -7096652694050769569
+    second: Iori Yagami SP_00022_12
+  - first:
+      213: 3115236418985163856
+    second: Iori Yagami SP_00022_13
+  - first:
+      213: -4422815286405792941
+    second: Iori Yagami SP_00022_14
+  - first:
+      213: -1960073957709773038
+    second: Iori Yagami SP_00022_15
+  - first:
+      213: -239146735429798668
+    second: Iori Yagami SP_00022_16
+  - first:
+      213: -6566776462354012821
+    second: Iori Yagami SP_00022_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 125
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15f12d97e2c6e50800000000000000
+      internalID: 6803864237801165309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 298
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4f220d02f8dd6f0800000000000000
+      internalID: -658212599432547087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 306
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66bb29e16b946310800000000000000
+      internalID: 1397412629217785454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c70701bc5294fd0800000000000000
+      internalID: -2357311375867347958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 303
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba587bf282290c20800000000000000
+      internalID: 3173105358419286710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 283
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4860ec0ed4e0e38b0800000000000000
+      internalID: -5170679594527881596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 279
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55c1a884dba3ec40800000000000000
+      internalID: 5540460895909561693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 279
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2459a62f7ca100800000000000000
+      internalID: 120611094058512048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 250
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3605180ab2d076b0800000000000000
+      internalID: -5300505064973728196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24edc38d4e3a22970800000000000000
+      internalID: 8728719231073181250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeac64ea9f29ddd0800000000000000
+      internalID: -2460883379077468445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 211
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f3c53952ec4c20800000000000000
+      internalID: 3192175108680840873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 246
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f8c479ff938d90800000000000000
+      internalID: -7096652694050769569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c78f0940b8b3b20800000000000000
+      internalID: 3115236418985163856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 193
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7d9a1ee00f92c0800000000000000
+      internalID: -4422815286405792941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 181
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2170731de1b6cc4e0800000000000000
+      internalID: -1960073957709773038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 165
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43389af416eacf0800000000000000
+      internalID: -239146735429798668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iori Yagami SP_00022_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652ef9899f1ed4a0800000000000000
+      internalID: -6566776462354012821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iori Yagami SP_00022_0: 6803864237801165309
+      Iori Yagami SP_00022_1: -658212599432547087
+      Iori Yagami SP_00022_10: -2460883379077468445
+      Iori Yagami SP_00022_11: 3192175108680840873
+      Iori Yagami SP_00022_12: -7096652694050769569
+      Iori Yagami SP_00022_13: 3115236418985163856
+      Iori Yagami SP_00022_14: -4422815286405792941
+      Iori Yagami SP_00022_15: -1960073957709773038
+      Iori Yagami SP_00022_16: -239146735429798668
+      Iori Yagami SP_00022_17: -6566776462354012821
+      Iori Yagami SP_00022_2: 1397412629217785454
+      Iori Yagami SP_00022_3: -2357311375867347958
+      Iori Yagami SP_00022_4: 3173105358419286710
+      Iori Yagami SP_00022_5: -5170679594527881596
+      Iori Yagami SP_00022_6: 5540460895909561693
+      Iori Yagami SP_00022_7: 120611094058512048
+      Iori Yagami SP_00022_8: -5300505064973728196
+      Iori Yagami SP_00022_9: 8728719231073181250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

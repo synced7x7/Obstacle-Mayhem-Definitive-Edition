@@ -1,0 +1,1269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: riot_of_the_blood_part2
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.06666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.21666667
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.3
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.38333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.43333334
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.55
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.95
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.55
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.53
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.21666667
+        value: 0.5
+        inSlope: -0.23999989
+        outSlope: -0.23999989
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 0.47
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.38333333
+        value: 0.66
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.55
+        value: 0.55
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.76
+        inSlope: 0.6545455
+        outSlope: 0.6545455
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9166667
+        value: 0.82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333333
+        value: 0.55
+        inSlope: -1.1039999
+        outSlope: -1.1039999
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 0.36
+        inSlope: -1.0571429
+        outSlope: -1.0571429
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.4833333
+        value: 0.18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.x
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.71
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.21666667
+        value: -0.68
+        inSlope: 0.24000001
+        outSlope: 0.24000001
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: -0.65
+        inSlope: 0.23999979
+        outSlope: 0.23999979
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.38333333
+        value: -0.64
+        inSlope: 0.1333332
+        outSlope: 0.1333332
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.55
+        value: -0.52
+        inSlope: 0.23999977
+        outSlope: 0.23999977
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: -0.49
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9166667
+        value: -0.78
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333333
+        value: -0.39
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: -0.74
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.4833333
+        value: -0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.y
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8666667
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.42
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 0.42
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.95
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.7333333
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.x
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8666667
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.25
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 0.25
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.95
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.7333333
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.y
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 5147910083f130a4babba2477c8f4d85, type: 3}
+    - time: 0.033333335
+      value: {fileID: 21300000, guid: 6e8603dc14cc6fc4b89bb2e714186ac7, type: 3}
+    - time: 0.06666667
+      value: {fileID: 21300000, guid: 6d865afc9b985664e82013d48d68fe15, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: a05c4d989dddb3e4c9b029e23e1936f5, type: 3}
+    - time: 0.21666667
+      value: {fileID: 21300000, guid: e24e6901184d5634d9891c0f0e365e8a, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: 360c560a39b46124bbcd6707c45387fa, type: 3}
+    - time: 0.3
+      value: {fileID: 21300000, guid: e7221569a38f4434b82930b2f3cc949d, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: d2059d65c63c24e4ea83873105b4c3b3, type: 3}
+    - time: 0.36666667
+      value: {fileID: 21300000, guid: 8034530365dc9b141a21eeb47e63aea6, type: 3}
+    - time: 0.4
+      value: {fileID: 21300000, guid: 949b99fef0b196145a82d33d74a7bc64, type: 3}
+    - time: 0.43333334
+      value: {fileID: 21300000, guid: b8a4363dff33e9f4a88f1ab46ab5139d, type: 3}
+    - time: 0.46666667
+      value: {fileID: 21300000, guid: fc88e16f74b685d4fb9910e9cb247e81, type: 3}
+    - time: 0.51666665
+      value: {fileID: 21300000, guid: 140cd3a9a3ea8724aa1f6cce65b35f7c, type: 3}
+    - time: 0.55
+      value: {fileID: 21300000, guid: 05b48ab24dfb3264990cf9de0664d9e6, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 84eaa47747dd6c64d9d13216d6a2dbb5, type: 3}
+    - time: 0.6166667
+      value: {fileID: 21300000, guid: 8bcb8621900c8d349971af7e9c6ab4c7, type: 3}
+    - time: 0.65
+      value: {fileID: 21300000, guid: aa44e60e25370ff458e990a0c9f1ab31, type: 3}
+    - time: 0.68333334
+      value: {fileID: 21300000, guid: 9c24467d5d79ce44d8a680a6dc22d8da, type: 3}
+    - time: 0.73333335
+      value: {fileID: 21300000, guid: fd4573494dd21794c93d8bc2a98ad341, type: 3}
+    - time: 0.78333336
+      value: {fileID: 21300000, guid: d3d02dab26cec154aa39fd48d4a3e61e, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 2aecb2101afa1e045a3f9b647ce91a14, type: 3}
+    - time: 0.8833333
+      value: {fileID: 21300000, guid: 37a2db4479040754bb8dd6e3454d1132, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 19e81c89a3927004d904af3cd94d96f8, type: 3}
+    - time: 0.95
+      value: {fileID: 21300000, guid: 73bc220a36e1f7a44b905eef938f5ddc, type: 3}
+    - time: 0.98333335
+      value: {fileID: 21300000, guid: fe82262d4b9072940891daad720cd9e4, type: 3}
+    - time: 1.0333333
+      value: {fileID: 21300000, guid: e10d3d4bded920541b0924ed9fc86b0c, type: 3}
+    - time: 1.0666667
+      value: {fileID: 21300000, guid: b33bdf3ce46ac1f4094a7905ee143ec4, type: 3}
+    - time: 1.1
+      value: {fileID: 21300000, guid: d1a178faa3764a3478b0dc0842b80600, type: 3}
+    - time: 1.1333333
+      value: {fileID: 21300000, guid: 8bd248369c8831f40bad1f8bd24ef76d, type: 3}
+    - time: 1.1666666
+      value: {fileID: 21300000, guid: 3722b3b315ec652418d29733d8fd8dfa, type: 3}
+    - time: 1.2
+      value: {fileID: 21300000, guid: 0754b07315f4dfb43ba08ff02b43a666, type: 3}
+    - time: 1.2333333
+      value: {fileID: 21300000, guid: 0b6d79b77dffdea448bd5fc5b4be4099, type: 3}
+    - time: 1.2833333
+      value: {fileID: 21300000, guid: a183bfcbbd858424b8a7a53183532aa8, type: 3}
+    - time: 1.3333334
+      value: {fileID: 21300000, guid: d0c144cc1b072db46be1c85b3181824e, type: 3}
+    - time: 1.3666667
+      value: {fileID: 21300000, guid: 614a419e33746264d9d57631a64ab78a, type: 3}
+    - time: 1.4
+      value: {fileID: 21300000, guid: c3eaf47073f608f48a43b64520bb1f24, type: 3}
+    - time: 1.4333333
+      value: {fileID: 21300000, guid: a42ea98c5ac497f41a89fa5babb50649, type: 3}
+    - time: 1.4833333
+      value: {fileID: 21300000, guid: 3ce5c2e4a637a384a80ceaed44b7f894, type: 3}
+    - time: 1.55
+      value: {fileID: 21300000, guid: cb71ad83b461a4e46b066ea60ded8c1b, type: 3}
+    - time: 1.6
+      value: {fileID: 21300000, guid: 2a3f6d3d5b4124848b819104b6f056dd, type: 3}
+    - time: 1.6333333
+      value: {fileID: 21300000, guid: 448397e8dc15d1b438067a98be2d0a17, type: 3}
+    - time: 1.6833333
+      value: {fileID: 21300000, guid: 1ba9296a74bbc9c4cb1b42529ea7648a, type: 3}
+    - time: 1.7333333
+      value: {fileID: 21300000, guid: 990645fd5fbd4b44c81b1eda7dd26721, type: 3}
+    - time: 1.8
+      value: {fileID: 21300000, guid: 5e4e351fc7a35e848b6013751055dbe9, type: 3}
+    - time: 1.8833333
+      value: {fileID: 21300000, guid: 065c0735c11bcf443b6fe66149d078bc, type: 3}
+    - time: 1.9666667
+      value: {fileID: 21300000, guid: 422018c9fb009b743a02cd5e30e056b9, type: 3}
+    - time: 2.05
+      value: {fileID: 21300000, guid: dd90f62972b01da4aa731eab82c7fe75, type: 3}
+    - time: 2.1333334
+      value: {fileID: 21300000, guid: 28dcac5e04f90d04c9bb368f41ebeb07, type: 3}
+    - time: 2.2166667
+      value: {fileID: 21300000, guid: 740e093f881393d468d2258e9070d551, type: 3}
+    - time: 2.3
+      value: {fileID: 21300000, guid: 2ed5886af438eac4f85858e1ef7c4338, type: 3}
+    - time: 2.3833334
+      value: {fileID: 21300000, guid: 6b63c5c37f1ffb44ca8694f860fbeba8, type: 3}
+    - time: 2.4666667
+      value: {fileID: 21300000, guid: fb8070b3f1feef2488049bcc17b89803, type: 3}
+    - time: 2.55
+      value: {fileID: 21300000, guid: f98bb16bbccc5804a92adb9c2198739d, type: 3}
+    - time: 2.6333334
+      value: {fileID: 21300000, guid: e62ae6b45c0ca9b4aab028a7d6de544a, type: 3}
+    - time: 2.7166667
+      value: {fileID: 21300000, guid: d5e21ff90feac0a488d5862a39ab9c18, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3824767643
+      attribute: 3305885265
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3824767643
+      attribute: 413499720
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3824767643
+      attribute: 1872933342
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3824767643
+      attribute: 4197328169
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 3824767643
+      attribute: 2368279999
+      script: {fileID: 0}
+      typeID: 61
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 5147910083f130a4babba2477c8f4d85, type: 3}
+    - {fileID: 21300000, guid: 6e8603dc14cc6fc4b89bb2e714186ac7, type: 3}
+    - {fileID: 21300000, guid: 6d865afc9b985664e82013d48d68fe15, type: 3}
+    - {fileID: 21300000, guid: a05c4d989dddb3e4c9b029e23e1936f5, type: 3}
+    - {fileID: 21300000, guid: e24e6901184d5634d9891c0f0e365e8a, type: 3}
+    - {fileID: 21300000, guid: 360c560a39b46124bbcd6707c45387fa, type: 3}
+    - {fileID: 21300000, guid: e7221569a38f4434b82930b2f3cc949d, type: 3}
+    - {fileID: 21300000, guid: d2059d65c63c24e4ea83873105b4c3b3, type: 3}
+    - {fileID: 21300000, guid: 8034530365dc9b141a21eeb47e63aea6, type: 3}
+    - {fileID: 21300000, guid: 949b99fef0b196145a82d33d74a7bc64, type: 3}
+    - {fileID: 21300000, guid: b8a4363dff33e9f4a88f1ab46ab5139d, type: 3}
+    - {fileID: 21300000, guid: fc88e16f74b685d4fb9910e9cb247e81, type: 3}
+    - {fileID: 21300000, guid: 140cd3a9a3ea8724aa1f6cce65b35f7c, type: 3}
+    - {fileID: 21300000, guid: 05b48ab24dfb3264990cf9de0664d9e6, type: 3}
+    - {fileID: 21300000, guid: 84eaa47747dd6c64d9d13216d6a2dbb5, type: 3}
+    - {fileID: 21300000, guid: 8bcb8621900c8d349971af7e9c6ab4c7, type: 3}
+    - {fileID: 21300000, guid: aa44e60e25370ff458e990a0c9f1ab31, type: 3}
+    - {fileID: 21300000, guid: 9c24467d5d79ce44d8a680a6dc22d8da, type: 3}
+    - {fileID: 21300000, guid: fd4573494dd21794c93d8bc2a98ad341, type: 3}
+    - {fileID: 21300000, guid: d3d02dab26cec154aa39fd48d4a3e61e, type: 3}
+    - {fileID: 21300000, guid: 2aecb2101afa1e045a3f9b647ce91a14, type: 3}
+    - {fileID: 21300000, guid: 37a2db4479040754bb8dd6e3454d1132, type: 3}
+    - {fileID: 21300000, guid: 19e81c89a3927004d904af3cd94d96f8, type: 3}
+    - {fileID: 21300000, guid: 73bc220a36e1f7a44b905eef938f5ddc, type: 3}
+    - {fileID: 21300000, guid: fe82262d4b9072940891daad720cd9e4, type: 3}
+    - {fileID: 21300000, guid: e10d3d4bded920541b0924ed9fc86b0c, type: 3}
+    - {fileID: 21300000, guid: b33bdf3ce46ac1f4094a7905ee143ec4, type: 3}
+    - {fileID: 21300000, guid: d1a178faa3764a3478b0dc0842b80600, type: 3}
+    - {fileID: 21300000, guid: 8bd248369c8831f40bad1f8bd24ef76d, type: 3}
+    - {fileID: 21300000, guid: 3722b3b315ec652418d29733d8fd8dfa, type: 3}
+    - {fileID: 21300000, guid: 0754b07315f4dfb43ba08ff02b43a666, type: 3}
+    - {fileID: 21300000, guid: 0b6d79b77dffdea448bd5fc5b4be4099, type: 3}
+    - {fileID: 21300000, guid: a183bfcbbd858424b8a7a53183532aa8, type: 3}
+    - {fileID: 21300000, guid: d0c144cc1b072db46be1c85b3181824e, type: 3}
+    - {fileID: 21300000, guid: 614a419e33746264d9d57631a64ab78a, type: 3}
+    - {fileID: 21300000, guid: c3eaf47073f608f48a43b64520bb1f24, type: 3}
+    - {fileID: 21300000, guid: a42ea98c5ac497f41a89fa5babb50649, type: 3}
+    - {fileID: 21300000, guid: 3ce5c2e4a637a384a80ceaed44b7f894, type: 3}
+    - {fileID: 21300000, guid: cb71ad83b461a4e46b066ea60ded8c1b, type: 3}
+    - {fileID: 21300000, guid: 2a3f6d3d5b4124848b819104b6f056dd, type: 3}
+    - {fileID: 21300000, guid: 448397e8dc15d1b438067a98be2d0a17, type: 3}
+    - {fileID: 21300000, guid: 1ba9296a74bbc9c4cb1b42529ea7648a, type: 3}
+    - {fileID: 21300000, guid: 990645fd5fbd4b44c81b1eda7dd26721, type: 3}
+    - {fileID: 21300000, guid: 5e4e351fc7a35e848b6013751055dbe9, type: 3}
+    - {fileID: 21300000, guid: 065c0735c11bcf443b6fe66149d078bc, type: 3}
+    - {fileID: 21300000, guid: 422018c9fb009b743a02cd5e30e056b9, type: 3}
+    - {fileID: 21300000, guid: dd90f62972b01da4aa731eab82c7fe75, type: 3}
+    - {fileID: 21300000, guid: 28dcac5e04f90d04c9bb368f41ebeb07, type: 3}
+    - {fileID: 21300000, guid: 740e093f881393d468d2258e9070d551, type: 3}
+    - {fileID: 21300000, guid: 2ed5886af438eac4f85858e1ef7c4338, type: 3}
+    - {fileID: 21300000, guid: 6b63c5c37f1ffb44ca8694f860fbeba8, type: 3}
+    - {fileID: 21300000, guid: fb8070b3f1feef2488049bcc17b89803, type: 3}
+    - {fileID: 21300000, guid: f98bb16bbccc5804a92adb9c2198739d, type: 3}
+    - {fileID: 21300000, guid: e62ae6b45c0ca9b4aab028a7d6de544a, type: 3}
+    - {fileID: 21300000, guid: d5e21ff90feac0a488d5862a39ab9c18, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 2.7333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.06666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.21666667
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.3
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.38333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.43333334
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.55
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.95
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1.55
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.53
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.21666667
+        value: 0.5
+        inSlope: -0.23999989
+        outSlope: -0.23999989
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 0.47
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.38333333
+        value: 0.66
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.55
+        value: 0.55
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.76
+        inSlope: 0.6545455
+        outSlope: 0.6545455
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9166667
+        value: 0.82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333333
+        value: 0.55
+        inSlope: -1.1039999
+        outSlope: -1.1039999
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 0.36
+        inSlope: -1.0571429
+        outSlope: -1.0571429
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.4833333
+        value: 0.18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.x
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.71
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.21666667
+        value: -0.68
+        inSlope: 0.24000001
+        outSlope: 0.24000001
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: -0.65
+        inSlope: 0.23999979
+        outSlope: 0.23999979
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.38333333
+        value: -0.64
+        inSlope: 0.1333332
+        outSlope: 0.1333332
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.55
+        value: -0.52
+        inSlope: 0.23999977
+        outSlope: 0.23999977
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: -0.49
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.9166667
+        value: -0.78
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1333333
+        value: -0.39
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: -0.74
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.4833333
+        value: -0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.y
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8666667
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.42
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 0.42
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.95
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.7333333
+        value: 0.21
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.x
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8666667
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.8833333
+        value: 0.25
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.93333334
+        value: 0.25
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.95
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.7333333
+        value: 0.19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.y
+    path: Moves/Special Moves/Riot of the Blood
+    classID: 61
+    script: {fileID: 0}
+    flags: 0
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0
+    functionName: manualSpeedBlocker
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3666667
+    functionName: riotOfTheBloodKyoResponseController
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 1
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.9666667
+    functionName: riotOfTheBloodKyoCustomPositionAdjuster
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.05
+    functionName: RiotoftheBloodCameraController
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.55
+    functionName: riotOfTheBloodExplodeEffect1Controller
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.7166667
+    functionName: Shattered_FlowersSpecialEffect2Activator
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

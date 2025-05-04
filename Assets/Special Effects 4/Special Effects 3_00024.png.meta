@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: ebceb13c3cb5d7e47ad3e36e0adf03b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 940700659744661010
+    second: Special Effects 3_00024_0
+  - first:
+      213: 3064093987549822967
+    second: Special Effects 3_00024_1
+  - first:
+      213: -1625726915525586560
+    second: Special Effects 3_00024_2
+  - first:
+      213: -2570517742242255826
+    second: Special Effects 3_00024_3
+  - first:
+      213: -6462333609250559815
+    second: Special Effects 3_00024_4
+  - first:
+      213: -149594119799849914
+    second: Special Effects 3_00024_5
+  - first:
+      213: -8681835415489264870
+    second: Special Effects 3_00024_6
+  - first:
+      213: 5968242422229877452
+    second: Special Effects 3_00024_7
+  - first:
+      213: 7110670266647803389
+    second: Special Effects 3_00024_8
+  - first:
+      213: -7491768141897158097
+    second: Special Effects 3_00024_9
+  - first:
+      213: 7205770504254792438
+    second: Special Effects 3_00024_10
+  - first:
+      213: 2342446628722140804
+    second: Special Effects 3_00024_11
+  - first:
+      213: 5916874388333598774
+    second: Special Effects 3_00024_12
+  - first:
+      213: 9031717915545986278
+    second: Special Effects 3_00024_13
+  - first:
+      213: 8249176203797945823
+    second: Special Effects 3_00024_14
+  - first:
+      213: 4771820287653184360
+    second: Special Effects 3_00024_15
+  - first:
+      213: -242215010878818941
+    second: Special Effects 3_00024_16
+  - first:
+      213: -4537780092064366638
+    second: Special Effects 3_00024_17
+  - first:
+      213: -7519810628016857336
+    second: Special Effects 3_00024_18
+  - first:
+      213: -3866072269140705814
+    second: Special Effects 3_00024_19
+  - first:
+      213: 318579784613342213
+    second: Special Effects 3_00024_20
+  - first:
+      213: 2121866818207845160
+    second: Special Effects 3_00024_21
+  - first:
+      213: 1334575708953675904
+    second: Special Effects 3_00024_22
+  - first:
+      213: 2237721641721038101
+    second: Special Effects 3_00024_23
+  - first:
+      213: 1201315437972823971
+    second: Special Effects 3_00024_24
+  - first:
+      213: -3040869710100257116
+    second: Special Effects 3_00024_25
+  - first:
+      213: -8444172009375023774
+    second: Special Effects 3_00024_26
+  - first:
+      213: 2420785315552603427
+    second: Special Effects 3_00024_27
+  - first:
+      213: 172786942245890606
+    second: Special Effects 3_00024_28
+  - first:
+      213: -7215984169102931326
+    second: Special Effects 3_00024_29
+  - first:
+      213: -7597530414665924314
+    second: Special Effects 3_00024_30
+  - first:
+      213: 5356029625599269811
+    second: Special Effects 3_00024_31
+  - first:
+      213: -2622419493552929842
+    second: Special Effects 3_00024_32
+  - first:
+      213: -5390456719551138667
+    second: Special Effects 3_00024_33
+  - first:
+      213: 8900852177270022096
+    second: Special Effects 3_00024_34
+  - first:
+      213: -353888086011518700
+    second: Special Effects 3_00024_35
+  - first:
+      213: 1022125333356982299
+    second: Special Effects 3_00024_36
+  - first:
+      213: 7851112263809872652
+    second: Special Effects 3_00024_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special Effects 3_00024_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 304
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e5e08144a0e0d00800000000000000
+      internalID: 940700659744661010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff31565f39d58a20800000000000000
+      internalID: 3064093987549822967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815e4adbf14079e0800000000000000
+      internalID: -1625726915525586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cafcc8bbfa35cd0800000000000000
+      internalID: -2570517742242255826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 359
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86d8042dd2156a0800000000000000
+      internalID: -6462333609250559815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 347
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb7dcc0f88cedf0800000000000000
+      internalID: -149594119799849914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134b5d10bce38780800000000000000
+      internalID: -8681835415489264870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2cd66acd473d250800000000000000
+      internalID: 5968242422229877452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5797efeec2ea260800000000000000
+      internalID: 7110670266647803389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22b1aa6194e70890800000000000000
+      internalID: -7491768141897158097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f22817881a000460800000000000000
+      internalID: 7205770504254792438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 238
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866b4a4cca028020800000000000000
+      internalID: 2342446628722140804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6381b3148e5fc1250800000000000000
+      internalID: 5916874388333598774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e466a3979b175d70800000000000000
+      internalID: 9031717915545986278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 231
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd5bf42d06fa7270800000000000000
+      internalID: 8249176203797945823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630299f449e83240800000000000000
+      internalID: 4771820287653184360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385fc4d1bba73acf0800000000000000
+      internalID: -242215010878818941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff9a76c019601c0800000000000000
+      internalID: -4537780092064366638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 128
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f19d2531444a790800000000000000
+      internalID: -7519810628016857336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 188
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed31e921c3f85ac0800000000000000
+      internalID: -3866072269140705814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50caf7e40a2db6400800000000000000
+      internalID: 318579784613342213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 78
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b87f701a2627d10800000000000000
+      internalID: 2121866818207845160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 60
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888c02598d558210800000000000000
+      internalID: 1334575708953675904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 69
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5158cf82afbfd0f10800000000000000
+      internalID: 2237721641721038101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1097a60eeba010800000000000000
+      internalID: 1201315437972823971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6aa312c19acc5d0800000000000000
+      internalID: -3040869710100257116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26db7eeeb4640da80800000000000000
+      internalID: -8444172009375023774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32daefa2b6b589120800000000000000
+      internalID: 2420785315552603427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a646afeccd56200800000000000000
+      internalID: 172786942245890606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a07cf41acabdb90800000000000000
+      internalID: -7215984169102931326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218c9f5756209690800000000000000
+      internalID: -7597530414665924314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 43
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb10582190745a40800000000000000
+      internalID: 5356029625599269811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3c7b26d5b4b9bd0800000000000000
+      internalID: -2622419493552929842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59479066c204135b0800000000000000
+      internalID: -5390456719551138667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df117085ed268b70800000000000000
+      internalID: 8900852177270022096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4116a0729acb61bf0800000000000000
+      internalID: -353888086011518700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10bba243915f2e00800000000000000
+      internalID: 1022125333356982299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Effects 3_00024_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03b918c101c4fc60800000000000000
+      internalID: 7851112263809872652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

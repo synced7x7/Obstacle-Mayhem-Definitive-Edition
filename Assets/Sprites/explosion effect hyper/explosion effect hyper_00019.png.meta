@@ -1,0 +1,1780 @@
+fileFormatVersion: 2
+guid: 294edfef2e6cb644c825f74302563961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6702732077543373671
+    second: explosion effect hyper_00019_0
+  - first:
+      213: 6124851793268582020
+    second: explosion effect hyper_00019_1
+  - first:
+      213: 3284373103770762771
+    second: explosion effect hyper_00019_2
+  - first:
+      213: -6569632848933753681
+    second: explosion effect hyper_00019_3
+  - first:
+      213: -4744024174867824258
+    second: explosion effect hyper_00019_4
+  - first:
+      213: -1532349135605547921
+    second: explosion effect hyper_00019_5
+  - first:
+      213: 672528204763707083
+    second: explosion effect hyper_00019_6
+  - first:
+      213: 6257546950669098277
+    second: explosion effect hyper_00019_7
+  - first:
+      213: 345970702312166495
+    second: explosion effect hyper_00019_8
+  - first:
+      213: -7285605589238958116
+    second: explosion effect hyper_00019_9
+  - first:
+      213: 6268232212196467242
+    second: explosion effect hyper_00019_10
+  - first:
+      213: -5760410940391701615
+    second: explosion effect hyper_00019_11
+  - first:
+      213: 4238575824472334311
+    second: explosion effect hyper_00019_12
+  - first:
+      213: -8112727389267239856
+    second: explosion effect hyper_00019_13
+  - first:
+      213: -3028424026513123397
+    second: explosion effect hyper_00019_14
+  - first:
+      213: -4450128652232059391
+    second: explosion effect hyper_00019_15
+  - first:
+      213: 8720614414792588276
+    second: explosion effect hyper_00019_16
+  - first:
+      213: 1211881918497395636
+    second: explosion effect hyper_00019_17
+  - first:
+      213: -7154694973817964706
+    second: explosion effect hyper_00019_18
+  - first:
+      213: 5824498019878752204
+    second: explosion effect hyper_00019_19
+  - first:
+      213: -1382055415662489665
+    second: explosion effect hyper_00019_20
+  - first:
+      213: 3077853024104763782
+    second: explosion effect hyper_00019_21
+  - first:
+      213: -5325912673520187545
+    second: explosion effect hyper_00019_22
+  - first:
+      213: 8380943672809691725
+    second: explosion effect hyper_00019_23
+  - first:
+      213: -6775830938303292922
+    second: explosion effect hyper_00019_24
+  - first:
+      213: -4201660205706004200
+    second: explosion effect hyper_00019_25
+  - first:
+      213: -5917577001394144194
+    second: explosion effect hyper_00019_26
+  - first:
+      213: 5690231973225004330
+    second: explosion effect hyper_00019_27
+  - first:
+      213: 380237162325347304
+    second: explosion effect hyper_00019_28
+  - first:
+      213: -8256953951648615865
+    second: explosion effect hyper_00019_29
+  - first:
+      213: 4439393325993655957
+    second: explosion effect hyper_00019_30
+  - first:
+      213: 4935419075379707565
+    second: explosion effect hyper_00019_31
+  - first:
+      213: 2514452492632786173
+    second: explosion effect hyper_00019_32
+  - first:
+      213: 8763743099844509450
+    second: explosion effect hyper_00019_33
+  - first:
+      213: 3234852238072898522
+    second: explosion effect hyper_00019_34
+  - first:
+      213: 2072966768985739453
+    second: explosion effect hyper_00019_35
+  - first:
+      213: -736243905519792922
+    second: explosion effect hyper_00019_36
+  - first:
+      213: -5127077296461868342
+    second: explosion effect hyper_00019_37
+  - first:
+      213: 4373834746133272461
+    second: explosion effect hyper_00019_38
+  - first:
+      213: -349317130857877165
+    second: explosion effect hyper_00019_39
+  - first:
+      213: 4374448888801569899
+    second: explosion effect hyper_00019_40
+  - first:
+      213: 8577388771954005383
+    second: explosion effect hyper_00019_41
+  - first:
+      213: -8036879446176141757
+    second: explosion effect hyper_00019_42
+  - first:
+      213: -5808461425035010715
+    second: explosion effect hyper_00019_43
+  - first:
+      213: -3428713994480714690
+    second: explosion effect hyper_00019_44
+  - first:
+      213: 6455890788114081862
+    second: explosion effect hyper_00019_45
+  - first:
+      213: 6198693711284421958
+    second: explosion effect hyper_00019_46
+  - first:
+      213: 2676695477302627428
+    second: explosion effect hyper_00019_47
+  - first:
+      213: -248250412213751417
+    second: explosion effect hyper_00019_48
+  - first:
+      213: -1406335533105552486
+    second: explosion effect hyper_00019_49
+  - first:
+      213: -4111376539275019515
+    second: explosion effect hyper_00019_50
+  - first:
+      213: -6817287631016627776
+    second: explosion effect hyper_00019_51
+  - first:
+      213: 6165962404202085201
+    second: explosion effect hyper_00019_52
+  - first:
+      213: 1170266090355051046
+    second: explosion effect hyper_00019_53
+  - first:
+      213: 5587825778346561500
+    second: explosion effect hyper_00019_54
+  - first:
+      213: -176613354432751831
+    second: explosion effect hyper_00019_55
+  - first:
+      213: 4209077443561461718
+    second: explosion effect hyper_00019_56
+  - first:
+      213: -3652007502616481961
+    second: explosion effect hyper_00019_57
+  - first:
+      213: 3421323304814159354
+    second: explosion effect hyper_00019_58
+  - first:
+      213: -4169340874310542657
+    second: explosion effect hyper_00019_59
+  - first:
+      213: -1909214847119577260
+    second: explosion effect hyper_00019_60
+  - first:
+      213: 8812274988854689121
+    second: explosion effect hyper_00019_61
+  - first:
+      213: -2269080608577697300
+    second: explosion effect hyper_00019_62
+  - first:
+      213: -2041578568929244377
+    second: explosion effect hyper_00019_63
+  - first:
+      213: 7331182511304385483
+    second: explosion effect hyper_00019_64
+  - first:
+      213: 3446812330068414235
+    second: explosion effect hyper_00019_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bb69adf43e40d50800000000000000
+      internalID: 6702732077543373671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 324
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48620bf4148dff450800000000000000
+      internalID: 6124851793268582020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 307
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7a10cfef649d20800000000000000
+      internalID: 3284373103770762771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 245
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face0963bb9f3d4a0800000000000000
+      internalID: -6569632848933753681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 223
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71432bd527d92eb0800000000000000
+      internalID: -4744024174867824258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 286
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cba5474900cbae0800000000000000
+      internalID: -1532349135605547921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 267
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63f5ac6dc455900800000000000000
+      internalID: 672528204763707083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 266
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd5f73cc547d650800000000000000
+      internalID: 6257546950669098277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54520e45822dc400800000000000000
+      internalID: 345970702312166495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 240
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7bfcf315454ea90800000000000000
+      internalID: -7285605589238958116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 254
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a1a98cfb3df650800000000000000
+      internalID: 6268232212196467242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 238
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193cda905c8ee00b0800000000000000
+      internalID: -5760410940391701615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef5b33614272da30800000000000000
+      internalID: 4238575824472334311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 212
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd42b2c6dc96f80800000000000000
+      internalID: -8112727389267239856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 206
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb75d66a460e8f5d0800000000000000
+      internalID: -3028424026513123397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 226
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1069bee8197fd32c0800000000000000
+      internalID: -4450128652232059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 200
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbfcd04b98d50970800000000000000
+      internalID: 8720614414792588276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 184
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b391cd1f2871d010800000000000000
+      internalID: 1211881918497395636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 207
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57be4914da65bc90800000000000000
+      internalID: -7154694973817964706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 133
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc6dde616c4d050800000000000000
+      internalID: 5824498019878752204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 188
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf48810ce3f1dce0800000000000000
+      internalID: -1382055415662489665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 190
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68150aca40bb6ba20800000000000000
+      internalID: 3077853024104763782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767041e24ae8616b0800000000000000
+      internalID: -5325912673520187545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 172
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a1164cdd71f4470800000000000000
+      internalID: 8380943672809691725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 132
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a945859a967f1a0800000000000000
+      internalID: -6775830938303292922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819bff3ed44b0b5c0800000000000000
+      internalID: -4201660205706004200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 146
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c71e4e11b80eda0800000000000000
+      internalID: -5917577001394144194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_27
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 137
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d75add4d3c7fe40800000000000000
+      internalID: 5690231973225004330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 149
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0ece3fafd64500800000000000000
+      internalID: 380237162325347304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f931d028696d80800000000000000
+      internalID: -8256953951648615865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_30
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 123
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e771685b4eb9d30800000000000000
+      internalID: 4439393325993655957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb1b500812e7440800000000000000
+      internalID: 4935419075379707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_32
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df409fb483125e220800000000000000
+      internalID: 2514452492632786173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 92
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f3301cae11f9970800000000000000
+      internalID: 8763743099844509450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad36637b8f084ec20800000000000000
+      internalID: 3234852238072898522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 103
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db095981b48a4cc10800000000000000
+      internalID: 2072966768985739453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_36
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec4277911658c5f0800000000000000
+      internalID: -736243905519792922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 116
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac29b600d56f8d8b0800000000000000
+      internalID: -5127077296461868342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_38
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 94
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d88d278bf2bc30800000000000000
+      internalID: 4373834746133272461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_39
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 102
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f1459be9f62bf0800000000000000
+      internalID: -349317130857877165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_40
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 55
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cae19661a25bc30800000000000000
+      internalID: 4374448888801569899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 48
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851eb4a4a1090770800000000000000
+      internalID: 8577388771954005383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_42
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e680499b4477090800000000000000
+      internalID: -8036879446176141757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 87
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9a35cb13346fa0800000000000000
+      internalID: -5808461425035010715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 41
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf092c9c2ca60d0800000000000000
+      internalID: -3428713994480714690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 85
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a14e877ee79950800000000000000
+      internalID: 6455890788114081862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 91
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6454e8c961f260650800000000000000
+      internalID: 6198693711284421958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 79
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c8488da58852520800000000000000
+      internalID: 2676695477302627428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_48
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 84
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b7acb0990e8cf0800000000000000
+      internalID: -248250412213751417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 54
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93eb32a841bb7ce0800000000000000
+      internalID: -1406335533105552486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 77
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b33ae02d471f6c0800000000000000
+      internalID: -4111376539275019515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 62
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f695e4012461a0800000000000000
+      internalID: -6817287631016627776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_52
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 52
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf0e05326e19550800000000000000
+      internalID: 6165962404202085201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4c401fce9d3010800000000000000
+      internalID: 1170266090355051046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0e1990f1fb8d40800000000000000
+      internalID: 5587825778346561500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_55
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 65
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271272071b8c8df0800000000000000
+      internalID: -176613354432751831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 55
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7179f52a5a96a30800000000000000
+      internalID: 4209077443561461718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 55
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fab798686715dc0800000000000000
+      internalID: -3652007502616481961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a6353b6bfa7f20800000000000000
+      internalID: 3421323304814159354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba143f90968326c0800000000000000
+      internalID: -4169340874310542657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_60
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2985463b1185e0800000000000000
+      internalID: -1909214847119577260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 57
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d3eb5b96d7b4a70800000000000000
+      internalID: 8812274988854689121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_62
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 56
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9cff6653b9280e0800000000000000
+      internalID: -2269080608577697300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_63
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b0ce9bb1bdaa3e0800000000000000
+      internalID: -2041578568929244377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_64
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 55
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3aad9d6a79db560800000000000000
+      internalID: 7331182511304385483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion effect hyper_00019_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 55
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f0a2d5d8985df20800000000000000
+      internalID: 3446812330068414235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
