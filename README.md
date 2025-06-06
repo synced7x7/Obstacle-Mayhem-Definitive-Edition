@@ -12,3 +12,6 @@ as it requires proper timing and perfect keypress.
 But it produced a huge amount of bugs. So I needed to remove it completely as I didn't had time to work through all over the moves again.
 I decided to end it suddenly but I really enjoyed in making this project.
 Hope to continue making projects but smaller one ofcourse.
+
+Main Game Link:
+https://drive.google.com/drive/folders/1z3PspdIDOgtb83RzsQeALQQ1k5t-H98y?usp=sharing
