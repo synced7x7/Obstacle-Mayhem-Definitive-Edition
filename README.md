@@ -13,7 +13,7 @@ But it produced a huge amount of bugs. So I needed to remove it completely as I 
 I decided to end it suddenly but I really enjoyed in making this project.
 Hope to continue making projects but smaller one ofcourse.
 
-Main Game Link:
+Obstacle Mayhem Definitive Edition Game Link:
 https://drive.google.com/drive/folders/1z3PspdIDOgtb83RzsQeALQQ1k5t-H98y?usp=sharing 
 
 --just download and play
